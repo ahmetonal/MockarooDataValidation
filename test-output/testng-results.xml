@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19632" started-at="2018-07-02T18:04:17Z" finished-at="2018-07-02T18:04:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19632" started-at="2018-07-02T18:04:17Z" finished-at="2018-07-02T18:04:37Z">
+      <class name="com.mockaroo.MockarooDataValidation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mockaroo.MockarooDataValidation@6a41eaa2]" name="setUp" is-config="true" duration-ms="9474" started-at="2018-07-02T18:04:17Z" finished-at="2018-07-02T18:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:com.mockaroo.MockarooDataValidation@6a41eaa2]" name="verifyTitle" duration-ms="339" started-at="2018-07-02T18:04:27Z" finished-at="2018-07-02T18:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="generateData()[pri:2, instance:com.mockaroo.MockarooDataValidation@6a41eaa2]" name="generateData" duration-ms="582" started-at="2018-07-02T18:04:27Z" finished-at="2018-07-02T18:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateData -->
+        <test-method status="PASS" signature="verifyTagsName()[pri:3, instance:com.mockaroo.MockarooDataValidation@6a41eaa2]" name="verifyTagsName" duration-ms="347" started-at="2018-07-02T18:04:28Z" finished-at="2018-07-02T18:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTagsName -->
+        <test-method status="PASS" signature="createRows()[pri:4, instance:com.mockaroo.MockarooDataValidation@6a41eaa2]" name="createRows" duration-ms="6078" started-at="2018-07-02T18:04:28Z" finished-at="2018-07-02T18:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRows -->
+        <test-method status="PASS" signature="readCsvFile()[pri:5, instance:com.mockaroo.MockarooDataValidation@6a41eaa2]" name="readCsvFile" duration-ms="2063" started-at="2018-07-02T18:04:34Z" finished-at="2018-07-02T18:04:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readCsvFile -->
+        <test-method status="PASS" signature="driverClosing()[pri:0, instance:com.mockaroo.MockarooDataValidation@6a41eaa2]" name="driverClosing" is-config="true" duration-ms="707" started-at="2018-07-02T18:04:36Z" finished-at="2018-07-02T18:04:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClosing -->
+      </class> <!-- com.mockaroo.MockarooDataValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
